@@ -1,5 +1,5 @@
 const cursor=document.querySelector(".cursor");
-var timeout
+
 
 //cursor movement
 document.addEventListener("mousemove",(e)=>{
